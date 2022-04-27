@@ -2,4 +2,5 @@
 
 
 echo "Teste";
+echo "Amém";
 ?>
