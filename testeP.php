@@ -1,2 +1,2 @@
 <?php
-echo 'a paz do senhor';
+echo 'a paz do senhor jesus';
